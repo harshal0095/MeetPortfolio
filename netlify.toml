@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/Meet_Gondaliya_Portfolio.html"
+  to = "/"
+  status = 301
